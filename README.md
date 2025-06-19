@@ -2,7 +2,8 @@
 
 This project contains scripts on Python that were used in a pipeline for searchin for gains and losses genes in the genomes of intracellular parasites.
 
-![img_1.png](img_1.png)
+![image](https://github.com/user-attachments/assets/c6dacbd7-5f9b-4cca-8d8c-657bc6ba1629)
+
 
 #How to use
 
